@@ -1,0 +1,6 @@
+# Ignore my test dumps
+*.bin
+
+/build
+/.vscode
+/deps/minhook/lib
